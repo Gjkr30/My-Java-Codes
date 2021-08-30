@@ -1,0 +1,4 @@
+#exclude all the .class
+*.class
+#exclude the folder potter
+/potter
